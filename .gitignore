@@ -1,0 +1,16 @@
+node_modules/
+dist/
+.DS_Store
+.env
+.env.*
+!.env.example
+*.local
+*.log
+*.tsbuildinfo
+coverage/
+playwright-report/
+test-results/
+.vscode/
+.idea/
+backups/
+今天吃什么-备份-*.json
